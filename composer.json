@@ -30,6 +30,9 @@
   "config": {
     "sort-packages": true
   },
+  "scripts": {
+    "start": "php -S localhost:8080 -t public"
+  },
   "minimum-stability": "stable",
   "prefer-stable": true
 }

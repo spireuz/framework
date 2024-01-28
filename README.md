@@ -7,7 +7,7 @@
 composer install
 
 # Start local server
-make run
+composer start
 ```
 
 ### Creator

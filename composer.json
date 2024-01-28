@@ -15,7 +15,9 @@
     }
   ],
   "require": {
-    "php": "^8.2"
+    "php": "^8.2",
+    "slim/psr7": "^1.6",
+    "slim/slim": "^4.12"
   },
   "autoload": {
     "files": [
